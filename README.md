@@ -13,4 +13,4 @@ A saída deve incluir o resultado da operação de potência para valores positi
 ![imagens/img1.png](imagens/img1.png)
 
 - Saída:\
-![imagens/img1.png](imagens/img1.png)
+![imagens/img2.png](imagens/img2.png)
